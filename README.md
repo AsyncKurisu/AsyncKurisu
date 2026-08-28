@@ -9,7 +9,9 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-Hi, I'm **KazenkE**.  
+---
+
+### About me
 
 - 👨‍🎓 Studying at **Xidian University, China**.
 - 🔭 Working on **AI Agent and High-Performance Computing on ARM**.
@@ -17,6 +19,18 @@ Hi, I'm **KazenkE**.
 - 🤩 Interested in **Football** and **Anime**.
 - 🚀 Always looking for interesting projects and opportunities to collaborate.
 - 🤝 Welcome communicate with me about everything!
+
+---
+
+### 📊 GitHub Analytics & Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsyncKurisu&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+### 🏆 Contribution & Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsyncKurisu/AsyncKurisu/output/github-contribution-grid-snake-dark.svg">
