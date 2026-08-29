@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/AsyncKurisu">
-    <img src="https://github.com/AsyncKurisu/AsyncKurisu/blob/output/header.svg?raw=true" width="100%"/>
+    <img src="https://github.com/AsyncKurisu/AsyncKurisu/blob/main/images/header.svg?raw=true" width="100%"/>
   </a>
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=00ADD8&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-stack+%26+AI+Agent+%26+Cryptography;Open+Source+Contributor+%26+Football+Referee;Infinite+Progress" alt="Typing SVG" />
 </div>
