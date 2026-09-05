@@ -50,8 +50,16 @@
 </picture>
 
 <div align="center">
-  <!-- 添加动态数据卡片 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsyncKurisu&theme=radical" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsyncKurisu&theme=radical" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsyncKurisu&theme=radical" width="33%" />
+  <img
+    src="https://raw.githubusercontent.com/AsyncKurisu/AsyncKurisu/output/profile-summary-card-output/radical/3-stats.svg"
+    width="33%"
+  />
+  <img
+    src="https://raw.githubusercontent.com/AsyncKurisu/AsyncKurisu/output/profile-summary-card-output/radical/1-repos-per-language.svg"
+    width="33%"
+  />
+  <img
+    src="https://raw.githubusercontent.com/AsyncKurisu/AsyncKurisu/output/profile-summary-card-output/radical/2-most-commit-language.svg"
+    width="33%"
+  />
 </div>
