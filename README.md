@@ -36,7 +36,7 @@
 ### 📊 GitHub Analytics & Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsyncKurisu&theme=tokyonight" width="100%" />
+  <img src="https://raw.githubusercontent.com/AsyncKurisu/AsyncKurisu/output/profile-summary-card-output/radical/0-profile-details.svg"&theme="tokyonight" width="100%" />
 </div>
 
 ---
